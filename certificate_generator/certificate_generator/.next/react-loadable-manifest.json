@@ -1,0 +1,26 @@
+{
+  "app/generate/page.tsx -> fontkit": {
+    "id": "app/generate/page.tsx -> fontkit",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_fontkit_2_0_4_node_modules_fontkit_dist_browser-module_mjs.js"
+    ]
+  },
+  "app/generate/page.tsx -> pdf-lib": {
+    "id": "app/generate/page.tsx -> pdf-lib",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_pdf-lib_1_17_1_node_modules_pdf-lib_es_index_js.js"
+    ]
+  },
+  "app/upload/page.tsx -> papaparse": {
+    "id": "app/upload/page.tsx -> papaparse",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_papaparse_5_5_2_node_modules_papaparse_papaparse_min_js.js"
+    ]
+  },
+  "app/upload/page.tsx -> xlsx": {
+    "id": "app/upload/page.tsx -> xlsx",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_xlsx_0_18_5_node_modules_xlsx_xlsx_mjs.js"
+    ]
+  }
+}
