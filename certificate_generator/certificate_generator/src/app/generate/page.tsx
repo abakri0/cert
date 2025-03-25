@@ -21,27 +21,27 @@ export default function Generate() {
   // قائمة الأشهر المختصرة
   const months = [
     { value: '', label: 'بدون شهر' },
-    { value: 'Jan', label: 'Jan - يناير' },
-    { value: 'Feb', label: 'Feb - فبراير' },
-    { value: 'Mar', label: 'Mar - مارس' },
-    { value: 'Apr', label: 'Apr - أبريل' },
-    { value: 'May', label: 'May - مايو' },
-    { value: 'Jun', label: 'Jun - يونيو' },
-    { value: 'Jul', label: 'Jul - يوليو' },
-    { value: 'Aug', label: 'Aug - أغسطس' },
-    { value: 'Sep', label: 'Sep - سبتمبر' },
-    { value: 'Oct', label: 'Oct - أكتوبر' },
-    { value: 'Nov', label: 'Nov - نوفمبر' },
-    { value: 'Dec', label: 'Dec - ديسمبر' }
+    { value: 'JAN', label: 'JAN - يناير' },
+    { value: 'FEB', label: 'FEB - فبراير' },
+    { value: 'MAR', label: 'MAR - مارس' },
+    { value: 'APR', label: 'APR - أبريل' },
+    { value: 'MAY', label: 'MAY - مايو' },
+    { value: 'JUN', label: 'JUN - يونيو' },
+    { value: 'JUL', label: 'JUL - يوليو' },
+    { value: 'AUG', label: 'AUG - أغسطس' },
+    { value: 'SEP', label: 'SEP - سبتمبر' },
+    { value: 'OCT', label: 'OCT - أكتوبر' },
+    { value: 'NOV', label: 'NOV - نوفمبر' },
+    { value: 'DEC', label: 'DEC - ديسمبر' }
   ];
 
   // قائمة السنوات
   const years = [
     { value: '', label: 'بدون سنة' },
-    { value: '2023', label: '2023' },
-    { value: '2024', label: '2024' },
     { value: '2025', label: '2025' },
-    { value: '2026', label: '2026' }
+    { value: '2026', label: '2026' },
+    { value: '2027', label: '2027' },
+    { value: '2028', label: '2028' }
   ];
 
   // استرجاع بيانات المتدربين من التخزين المحلي عند تحميل الصفحة

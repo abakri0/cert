@@ -1,4 +1,4 @@
-// File: /home/ubuntu/certificate_app/certificate_generator/certificate_generator/src/app/upload/page.tsx
+// File: C:\Users\tagrb\Documents\cece\cert\certificate_generator\certificate_generator\src\app\upload\page.tsx
 import * as entry from '../../../../src/app/upload/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

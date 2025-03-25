@@ -16,6 +16,7 @@
     "cf-typegen": "wrangler types --env-interface CloudflareEnv env.d.ts"
   },
   "dependencies": {
+    "@headlessui/react": "^2.2.0",
     "@hookform/resolvers": "^3.10.0",
     "@radix-ui/react-accordion": "^1.2.2",
     "@radix-ui/react-alert-dialog": "^1.1.4",
@@ -51,6 +52,7 @@
     "cmdk": "1.0.0",
     "date-fns": "^4.1.0",
     "embla-carousel-react": "^8.5.2",
+    "focus-trap-react": "^11.0.3",
     "fontkit": "^2.0.4",
     "input-otp": "^1.4.2",
     "lucide-react": "^0.364.0",
@@ -63,6 +65,7 @@
     "react-day-picker": "8.10.1",
     "react-dom": "^19.0.0",
     "react-hook-form": "^7.54.2",
+    "react-modal": "^3.16.3",
     "react-resizable-panels": "^2.1.7",
     "recharts": "^2.12.4",
     "sonner": "^1.7.2",
@@ -79,6 +82,7 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@types/react-modal": "^3.16.3",
     "eslint": "^9",
     "eslint-config-next": "15.1.4",
     "postcss": "^8",

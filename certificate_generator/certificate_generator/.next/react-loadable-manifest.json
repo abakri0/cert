@@ -1,26 +1,40 @@
 {
-  "app/generate/page.tsx -> fontkit": {
-    "id": "app/generate/page.tsx -> fontkit",
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": 5203,
     "files": [
-      "static/chunks/_app-pages-browser_node_modules_pnpm_fontkit_2_0_4_node_modules_fontkit_dist_browser-module_mjs.js"
+      "static/chunks/203.2b4c1ee4fbe3a7cf.js"
     ]
   },
-  "app/generate/page.tsx -> pdf-lib": {
-    "id": "app/generate/page.tsx -> pdf-lib",
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": 6218,
     "files": [
-      "static/chunks/_app-pages-browser_node_modules_pnpm_pdf-lib_1_17_1_node_modules_pdf-lib_es_index_js.js"
+      "static/chunks/218.57a830a2c55ba802.js"
     ]
   },
-  "app/upload/page.tsx -> papaparse": {
-    "id": "app/upload/page.tsx -> papaparse",
+  "app\\generate\\page.tsx -> fontkit": {
+    "id": 3479,
     "files": [
-      "static/chunks/_app-pages-browser_node_modules_pnpm_papaparse_5_5_2_node_modules_papaparse_papaparse_min_js.js"
+      "static/chunks/ff804112.96ac5ad792f9adba.js",
+      "static/chunks/138.7db09a22a37dcb17.js"
     ]
   },
-  "app/upload/page.tsx -> xlsx": {
-    "id": "app/upload/page.tsx -> xlsx",
+  "app\\generate\\page.tsx -> pdf-lib": {
+    "id": 71,
     "files": [
-      "static/chunks/_app-pages-browser_node_modules_pnpm_xlsx_0_18_5_node_modules_xlsx_xlsx_mjs.js"
+      "static/chunks/71.bbc25d97293cf47e.js"
+    ]
+  },
+  "app\\upload\\page.tsx -> papaparse": {
+    "id": 9159,
+    "files": [
+      "static/chunks/159.d35b33593ac7f432.js"
+    ]
+  },
+  "app\\upload\\page.tsx -> xlsx": {
+    "id": 7660,
+    "files": [
+      "static/chunks/2170a4aa.ef20770f527960d1.js",
+      "static/chunks/436.f428a6f91a270fd9.js"
     ]
   }
 }
